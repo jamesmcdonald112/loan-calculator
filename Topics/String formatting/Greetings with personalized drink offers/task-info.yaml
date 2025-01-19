@@ -1,0 +1,18 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: "# Python code to greet a friend in a unique way\n\n# Function to create a\
+    \ greeting for a friend\ndef create_greeting(friend_name, favorite_drink):\n \
+    \   # Write your code here to format the string. \n    # Make sure to capitalize\
+    \ the first letter of both 'friend_name' and 'favorite_drink'. \n\n# Taking user's\
+    \ input\nname_input = input()\ndrink_input = input()\n\n# Call function and print\
+    \ the greeting\nprint(create_greeting(name_input, drink_input))"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/42901#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 19 Jan 2025 11:37:47 UTC"
+record: -1
+submission_language: python3

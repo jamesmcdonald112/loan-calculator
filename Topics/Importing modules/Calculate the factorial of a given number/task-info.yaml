@@ -1,0 +1,20 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: |-
+      # Import the required module
+      import math
+      
+      # Input the number
+      n = int(input())
+      
+      # Use the factorial function from the math module to calculate the factorial
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/42943#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 17 Jan 2025 13:53:17 UTC"
+record: -1
+submission_language: python3
