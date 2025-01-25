@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - <code>5 and 0 and 12</code>
+  - <code>True or False</code>
+  - <code>not (False or True)</code>
+  - <code>5 or " "</code>
+options:
+  - <code>True</code>
+  - <code>0</code>
+  - <code>5</code>
+  - <code>False</code>
+files:
+  - name: main.py
+    visible: true
+    text: |+
+      #  You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20401#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

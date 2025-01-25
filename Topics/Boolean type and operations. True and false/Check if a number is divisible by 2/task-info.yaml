@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: |-
+      # We start by taking the integer input
+      input_value = int(input())
+      
+      # Write your boolean operation here to determine whether the input_value is divisible by 2
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41652#comment
+status: Unchecked
+record: -1
+submission_language: python3
